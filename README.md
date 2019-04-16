@@ -85,7 +85,7 @@ We read lots of paper this week and did more feature engineering and build basel
 
 **Week 7: Clean Data, Feature Selection and Model Improvement**
 
-In this week, we clean data, do some feature selection and do basic transfer to improve data.
+We clean data, do some feature selection and do basic transfer to improve data.
 
 - Clean Data:
   - Draw distribution of each variable to fill in NA
@@ -106,7 +106,7 @@ In this week, we clean data, do some feature selection and do basic transfer to 
 
 **Week 8: Iteration**
 
-In this week we iterate our model and add more features.
+We iterate our model and add more features.
 
 - Feature Engineering:
   - add dummy variable to indicate if it's NA
@@ -121,7 +121,7 @@ In this week we iterate our model and add more features.
 
 **Week 9: Iteration 2**
 
-In this week we continue iteration our models and try some non-linear models.
+We continue iteration our models and try some non-linear models.
 
 - Feature Engineering:
   - Delete Daily Features
@@ -134,7 +134,7 @@ In this week we continue iteration our models and try some non-linear models.
 
 **Week 10: Iteration 3**
 
-In this week, we read more paper and gain more ideas to improve our current clasification model.
+We read more paper and gain more ideas to improve our current clasification model.
 
 - Related Paper Reading:
   - 《A review of feature selection techniques in bioinformatics》
@@ -149,7 +149,7 @@ In this week, we read more paper and gain more ideas to improve our current clas
 
 **Week 11 Wrap Up, Prelimary Error Anaysis and Survival Analysis Defination**
 
-In this week, we stop iterate our classification model and wrap up our models, did some primary error analysis and read some documents about survival analysis and define our problem.
+We stop iterate our classification model and wrap up our models, did some primary error analysis and read some documents about survival analysis and define our problem.
 
 - Classification Model Wrap Up:
   - Feature Engineering: PCA & Clusters
@@ -162,9 +162,9 @@ In this week, we stop iterate our classification model and wrap up our models, d
   - Read documents about survival analysis models: [LIFELINES](<https://lifelines.readthedocs.io/en/latest/>)
   - Define our problem in survival analysis(event, start, end, censored)
 
-**Week 12 Error Analysis**
+**Week 12: Error Analysis**
 
-In this week, we mainly did error analysis about our classification problem.
+We mainly did error analysis about our classification problem.
 
 - Single Features Error Analysis
 - count plot of every day with FN, FP, TN, TP parts
@@ -172,7 +172,7 @@ In this week, we mainly did error analysis about our classification problem.
 
 **Week 13: Survival Analysis and Regression**
 
-In this week, we did survival analysis and failed to get correct results and then changed our problem to regression problem.
+We did survival analysis and failed to get correct results and then changed our problem to regression problem.
 
 - Survival Analysis: Cox (failed)
 - Regression:
@@ -180,6 +180,8 @@ In this week, we did survival analysis and failed to get correct results and the
   - Evaluation: MAE
 
 **Week 14: Wrap Up and Summarize**
+
+Wrap all things up
 
 
 
